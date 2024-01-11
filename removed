@@ -1449,5 +1449,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/tikismoke/home-assistant-nespressoble"
+  },
+  {
+    "repository": "mauro-midolo/homeassistant_electrolux_status",
+    "reason": "Repository is no longer working",
+    "removal_type": "remove",
+    "link": "https://github.com/mauro-midolo/homeassistant_electrolux_status"
   }
 ]
